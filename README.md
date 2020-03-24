@@ -14,7 +14,7 @@
 
 Patterns e recursos avançados usando ioredis.
 
-*Obs: Este repositório é uma cópia do [Node - Módulo 3 (Novo)](https://github.com/osvaldokalvaitir/node-modulo3-novo) para realização de patterns e recursos abançados.*
+*Obs: Este repositório é uma cópia do [Node - Módulo 3 (Novo)](https://github.com/osvaldokalvaitir/node-modulo3-novo) para realização de patterns e recursos avançados.*
 
 ## Índice
 
