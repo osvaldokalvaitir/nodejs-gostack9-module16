@@ -12,7 +12,7 @@
 
 [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=GoBarber&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fosvaldokalvaitir%2Fnode-modulo16-novo%2Fmaster%2FInsomnia.json)
 
-Aplicação GoBarber usando Node.js, Express, Multer, date-fns, Mongoose, Bee-Queue, Nodemailer, Express Handlebars, Youch, dotenv, Mailtrap e Sentry.
+Patterns e recursos avançados usando ioredis.
 
 *Obs: Este repositório é uma cópia do [Node - Módulo 3 (Novo)](https://github.com/osvaldokalvaitir/node-modulo3-novo) para realização de patterns e recursos abançados.*
 
