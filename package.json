@@ -1,8 +1,8 @@
 {
-  "name": "node-modulo16-novo",
+  "name": "nodejs-modulo16-novo",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/osvaldokalvaitir/node-modulo16-novo",
+  "repository": "https://github.com/osvaldokalvaitir/nodejs-modulo16-novo",
   "author": "Osvaldo Kalvaitir Filho <osvaldokalvaitir@outlook.com>",
   "license": "MIT",
   "scripts": {
