@@ -1,20 +1,20 @@
-# Node - Módulo 16 (Novo)
+# Node.js - Módulo 16 (Novo)
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/node-modulo16-novo/blob/master/LICENSE)
-![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/node-modulo16-novo.svg)
-![](https://img.shields.io/github/last-commit/osvaldokalvaitir/node-modulo16-novo.svg?color=red)
-![](https://img.shields.io/github/languages/top/osvaldokalvaitir/node-modulo16-novo.svg?color=yellow)
-![](https://img.shields.io/github/languages/count/osvaldokalvaitir/node-modulo16-novo.svg?color=lightgrey)
-![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/node-modulo16-novo.svg)
-![](https://img.shields.io/github/repo-size/osvaldokalvaitir/node-modulo16-novo.svg?color=blueviolet)
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/nodejs-modulo16-novo/blob/master/LICENSE)
+![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/nodejs-modulo16-novo.svg)
+![](https://img.shields.io/github/last-commit/osvaldokalvaitir/nodejs-modulo16-novo.svg?color=red)
+![](https://img.shields.io/github/languages/top/osvaldokalvaitir/nodejs-modulo16-novo.svg?color=yellow)
+![](https://img.shields.io/github/languages/count/osvaldokalvaitir/nodejs-modulo16-novo.svg?color=lightgrey)
+![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/nodejs-modulo16-novo.svg)
+![](https://img.shields.io/github/repo-size/osvaldokalvaitir/nodejs-modulo16-novo.svg?color=blueviolet)
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=GoBarber&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fosvaldokalvaitir%2Fnode-modulo16-novo%2Fmaster%2FInsomnia.json)
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=GoBarber&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fosvaldokalvaitir%2Fnodejs-modulo16-novo%2Fmaster%2FInsomnia.json)
 
 Patterns e recursos avançados usando ioredis.
 
-*Obs: Este repositório é uma cópia do [Node - Módulo 3 (Novo)](https://github.com/osvaldokalvaitir/node-modulo3-novo) para realização de patterns e recursos avançados.*
+*Obs: Este repositório é uma cópia do [Node.js - Módulo 3 (Novo)](https://github.com/osvaldokalvaitir/nodejs-modulo3-novo) para realização de patterns e recursos avançados.*
 
 ## Índice
 
